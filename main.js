@@ -62,9 +62,9 @@ function showSlidesContent(n) {
 
 function backHomePage(){
   if (!event.ctrlKey) {
-    window.open('file:///D:/CyberLogitec%20VietNam%20Company/yanghyun/index.html', '_self');
+    window.open('https://jethrokingpear.github.io/demoYanghyun/', '_self');
   } else {
-    let windowFocus = window.open('file:///D:/CyberLogitec%20VietNam%20Company/yanghyun/index.html');
+    let windowFocus = window.open('https://jethrokingpear.github.io/demoYanghyun/');
     windowFocus.focus;
   }
 }
